@@ -1,0 +1,16 @@
+C:\Users\Takushi\AppData\Local\Temporary Projects\JsonSerializer\bin\Debug\JsonSerializer.dll
+C:\Users\Takushi\AppData\Local\Temporary Projects\JsonSerializer\bin\Debug\JsonSerializer.pdb
+C:\Users\Takushi\AppData\Local\Temporary Projects\JsonSerializer\bin\Debug\JsonSerializer.xml
+C:\Users\Takushi\AppData\Local\Temporary Projects\JsonSerializer\obj\Debug\JsonSerializer.Resources.resources
+C:\Users\Takushi\AppData\Local\Temporary Projects\JsonSerializer\obj\Debug\JsonSerializer.vbproj.GenerateResource.Cache
+C:\Users\Takushi\AppData\Local\Temporary Projects\JsonSerializer\obj\Debug\JsonSerializer.dll
+C:\Users\Takushi\AppData\Local\Temporary Projects\JsonSerializer\obj\Debug\JsonSerializer.xml
+C:\Users\Takushi\AppData\Local\Temporary Projects\JsonSerializer\obj\Debug\JsonSerializer.pdb
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\bin\Debug\JsonSerializer.dll
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\bin\Debug\JsonSerializer.pdb
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\bin\Debug\JsonSerializer.xml
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.Resources.resources
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.vbproj.GenerateResource.Cache
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.dll
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.xml
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Debug\JsonSerializer.pdb

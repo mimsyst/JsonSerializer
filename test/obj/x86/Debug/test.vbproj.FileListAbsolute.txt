@@ -1,0 +1,15 @@
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\bin\Debug\test.exe
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\bin\Debug\test.pdb
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\bin\Debug\test.xml
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\obj\x86\Debug\test.Resources.resources
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\obj\x86\Debug\test.vbproj.GenerateResource.Cache
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\obj\x86\Debug\test.exe
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\obj\x86\Debug\test.xml
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\obj\x86\Debug\test.pdb
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\bin\Debug\JsonSerializer.dll
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\bin\Debug\JsonSerializer.pdb
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\bin\Debug\JsonSerializer.xml
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\test\obj\x86\Debug\test.vbprojResolveAssemblyReference.cache
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\test\obj\x86\Debug\test.exe
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\test\obj\x86\Debug\test.xml
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\test\obj\x86\Debug\test.pdb

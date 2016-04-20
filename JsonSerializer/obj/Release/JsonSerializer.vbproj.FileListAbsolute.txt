@@ -1,0 +1,16 @@
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.dll
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.pdb
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.xml
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.Resources.resources
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.vbproj.GenerateResource.Cache
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.dll
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.xml
+C:\Users\Takushi\Documents\Visual Studio 2010\Projects\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.pdb
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.dll
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.pdb
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\JsonSerializer\bin\Release\JsonSerializer.xml
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.Resources.resources
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.vbproj.GenerateResource.Cache
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.dll
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.xml
+C:\Users\Takushi\Documents\GitHub\JsonSerializer\JsonSerializer\obj\Release\JsonSerializer.pdb
